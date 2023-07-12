@@ -3,7 +3,7 @@
 # Presentation Slides
 
 [Check Yo Self - Ensuring Quality with Al and LLMs in
-Smart Contracts] (https://docs.google.com/presentation/d/1C58fvZ7kWW9eybrRBzMdz77SVlwwtNi_ZhFZV80IcLs)
+Smart Contracts](https://docs.google.com/presentation/d/1C58fvZ7kWW9eybrRBzMdz77SVlwwtNi_ZhFZV80IcLs)
 
 # LLM Background
 

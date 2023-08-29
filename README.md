@@ -8,7 +8,7 @@ Smart Contracts](https://docs.google.com/presentation/d/1C58fvZ7kWW9eybrRBzMdz77
 # LLM Background
 
 LLMs are technical. The easiest way to understand capabilities and limitations is playing with text2image diffusion. Then the explanations will make more sense.
-
+- [What are Transformers?](https://www.baeldung.com/cs/transformer-text-embeddings#what-are-transformers)
 - [How AI Image Generators Work - Computerphile](https://www.youtube.com/watch?v=1CIpzeNxIhU)
 - [Stable Diffusion in Code (AI Image Generation) - Computerphile](https://www.youtube.com/watch?v=-lz30by8-sU)
 - [Attention is all you need, Explained](https://www.youtube.com/watch?v=iDulhoQ2pro)
